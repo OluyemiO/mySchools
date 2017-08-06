@@ -1,0 +1,2 @@
+# mySchools
+Sample Schools Database
